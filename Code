@@ -1,0 +1,5 @@
+lower_body = ['squats', 'front squats', 'sissy squats', 'jefferson squats', 'leg extensions', ]
+
+for exercises in lower_body:
+    print(f"{exercises.title()} 3 sets of 10 reps. \n")
+print("You are done with this workout. Good Job!")
